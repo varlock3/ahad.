@@ -1,6 +1,6 @@
-token=NDgxNjE3ODkzNTkxODc1NTk1.Dq2awg.BdKntGwTuluESeZ1FSfslqCnyu4
-owner=464046823162511400
-prefix=T
-game=ستفقدني كثيراً اعدك بذلك .
+token=NTA4ODc1MzAwNDgyOTczNjk2.DsFmnA.Q8n63kzVzj24jQDVHTGqZes2oJA
+owner=486108296827371521
+prefix=7
+game=Tybe 7help
 stayinchannel=true
 songinstatus=false
